@@ -1,3 +1,16 @@
+/***************************************************************
+* Name         : Button Led Buzzer
+* Author       : Anthony Hamlin
+* Created      : 11/16/2023
+* Version      : 1.0
+* OS           : Windows 10
+* IDE          : Arduino 2.2.1
+* Copyright    : This is my own original work but based on specifications found online
+* Description  : a simple actuator to alter states where the button rebounds on its own after released
+*                      Input : ?
+*                      Output: ?  
+***************************************************************/
+// libraries
 // a simple actuator to alter states where the button rebounds on its own after released
 
 #define button 4  // define the connected button to D4
