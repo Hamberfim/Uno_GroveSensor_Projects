@@ -13,6 +13,7 @@
 *                      Output: ?  
 ***************************************************************/
 // included libraries
+#include "Arduino_SensorKit.h"
 
 // define connection objects
 

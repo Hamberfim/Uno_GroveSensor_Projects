@@ -11,7 +11,7 @@
 *                      Output: ?  
 ***************************************************************/
 // libraries
-
+#include "Arduino_SensorKit.h"
 
 // defined items
 #define button 4  // define the connected button to D4

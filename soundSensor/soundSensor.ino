@@ -12,6 +12,7 @@
 *                      Output: ?  
 ***************************************************************/
 // included libraries
+#include "Arduino_SensorKit.h"
 
 // global variables
 int soundSensor = A2;
