@@ -1,4 +1,4 @@
-// Red LED, Button and Buzzer - Arduino Sensor Kit with Arduino Uno R3
+// Red LED, Button and Buzzer - Arduino Grove Sensor Kit with Arduino Uno R3
 // Author: Hamberfim
 
 // define connection to digital pins

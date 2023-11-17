@@ -1,4 +1,4 @@
-// a simple actuator to alter states where the button rebounds on its own after released
+// Grove Sensor - a simple actuator to alter states where the button rebounds on its own after released
 
 #define button 4  // define the connected button to D4
 

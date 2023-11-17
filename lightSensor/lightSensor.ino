@@ -1,5 +1,5 @@
 /***************************************************************
-* Name         : Light Sensor
+* Name         : Light Sensor on the Grove Sensor
 * Author       : Anthony Hamlin
 * Created      : 11/16/2023
 * Version      : 1.0
